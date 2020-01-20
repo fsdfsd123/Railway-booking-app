@@ -1,0 +1,24 @@
+{
+  "configurations" : [
+    {
+      "id" : "899D1FD7-360F-4891-ACFC-B7DC26B64F89",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:Shinkansen3DSeatBookingPrototype.xcodeproj",
+        "identifier" : "29C4F33B23B5E9AE00804247",
+        "name" : "Shinkansen3DSeatBookingPrototypeUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
